@@ -1,0 +1,1117 @@
+{
+  "university": {
+    "name": "Universitas Teknologi Indonesia",
+    "shortName": "UTI",
+    "tagline": "Menembus Batas Cakrawala, Mengabdi untuk Bangsa",
+    "portalName": "TeknoPortal Terpadu",
+    "accreditation": "Unggul (A)",
+    "academicYear": "2026/2027",
+    "semester": "Gasal",
+    "address": "Jl. Boulevard Riset Terpadu No. 108, Kawasan Sains Nusantara",
+    "contactEmail": "akademik@cakrawala.ac.id",
+    "phone": "(021) 7890-1234",
+    "website": "https://cakrawala.ac.id"
+  },
+  "users": [
+    {
+      "id": "mhs_1",
+      "username": "220401001",
+      "password": "password123",
+      "role": "mahasiswa",
+      "nim": "220401001",
+      "name": "Ahmad Zulfikar Pratama",
+      "email": "a.zulfikar@cakrawala.ac.id",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+      "prodi": "S1 Teknik Informatika",
+      "fakultas": "Fakultas Ilmu Komputer & Rekayasa",
+      "angkatan": 2022,
+      "semester": 5,
+      "status": "Aktif",
+      "ipk": 3.82,
+      "totalSks": 96,
+      "dosenPa": "Dr. Ir. Hendra Kusuma, M.Kom.",
+      "enrolledCourses": [
+        "AI402",
+        "RPL301",
+        "KSR205",
+        "BDT202"
+      ]
+    },
+    {
+      "id": "mhs_2",
+      "username": "220401045",
+      "password": "password123",
+      "role": "mahasiswa",
+      "nim": "220401045",
+      "name": "Nabila Putri Maharani",
+      "email": "nabila.putri@cakrawala.ac.id",
+      "avatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=150&auto=format&fit=crop&q=80",
+      "prodi": "S1 Sistem Informasi",
+      "fakultas": "Fakultas Ilmu Komputer & Rekayasa",
+      "angkatan": 2022,
+      "semester": 5,
+      "status": "Aktif",
+      "ipk": 3.68,
+      "totalSks": 92,
+      "dosenPa": "Ratna Widyaningrum, S.T., M.Sc., Ph.D.",
+      "enrolledCourses": [
+        "RPL301",
+        "BDT202",
+        "UX104"
+      ]
+    },
+    {
+      "id": "mhs_3",
+      "username": "230402012",
+      "password": "password123",
+      "role": "mahasiswa",
+      "nim": "230402012",
+      "name": "Dimas Arya Nugroho",
+      "email": "dimas.arya@cakrawala.ac.id",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80",
+      "prodi": "S1 Rekayasa Perangkat Lunak",
+      "fakultas": "Fakultas Ilmu Komputer & Rekayasa",
+      "angkatan": 2023,
+      "semester": 3,
+      "status": "Aktif",
+      "ipk": 3.45,
+      "totalSks": 54,
+      "dosenPa": "Budi Santoso, M.Cs.",
+      "enrolledCourses": [
+        "BDT202",
+        "JKC303",
+        "UX104"
+      ]
+    },
+    {
+      "id": "mhs_4",
+      "username": "230402088",
+      "password": "password123",
+      "role": "mahasiswa",
+      "nim": "230402088",
+      "name": "Clarissa Evelyn Wijaya",
+      "email": "clarissa.evelyn@cakrawala.ac.id",
+      "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=150&auto=format&fit=crop&q=80",
+      "prodi": "S1 Desain Komunikasi Visual",
+      "fakultas": "Fakultas Desain & Industri Kreatif",
+      "angkatan": 2023,
+      "semester": 3,
+      "status": "Aktif",
+      "ipk": 3.91,
+      "totalSks": 58,
+      "dosenPa": "Maya Anggraini, S.Sn., M.Ds.",
+      "enrolledCourses": [
+        "UX104",
+        "RPL301"
+      ]
+    },
+    {
+      "id": "mhs_5",
+      "username": "210400033",
+      "password": "password123",
+      "role": "mahasiswa",
+      "nim": "210400033",
+      "name": "Faris Rizky Ramadhan",
+      "email": "faris.rizky@cakrawala.ac.id",
+      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150&auto=format&fit=crop&q=80",
+      "prodi": "S1 Keamanan Siber",
+      "fakultas": "Fakultas Ilmu Komputer & Rekayasa",
+      "angkatan": 2021,
+      "semester": 7,
+      "status": "Aktif",
+      "ipk": 3.54,
+      "totalSks": 124,
+      "dosenPa": "Dr. Ir. Hendra Kusuma, M.Kom.",
+      "enrolledCourses": [
+        "KSR205",
+        "JKC303"
+      ]
+    },
+    {
+      "id": "dos_1",
+      "username": "198205142010121003",
+      "password": "password123",
+      "role": "dosen",
+      "nip": "198205142010121003",
+      "nidn": "0414058201",
+      "name": "Dr. Ir. Hendra Kusuma, M.Kom.",
+      "email": "hendra.kusuma@cakrawala.ac.id",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&auto=format&fit=crop&q=80",
+      "jabatan": "Lektor Kepala - Koordinator Laboratorium AI",
+      "fakultas": "Fakultas Ilmu Komputer & Rekayasa",
+      "prodi": "Teknik Informatika",
+      "status": "Aktif",
+      "courses": [
+        "AI402",
+        "KSR205"
+      ]
+    },
+    {
+      "id": "dos_2",
+      "username": "198711202015042001",
+      "password": "password123",
+      "role": "dosen",
+      "nip": "198711202015042001",
+      "nidn": "0420118702",
+      "name": "Ratna Widyaningrum, S.T., M.Sc., Ph.D.",
+      "email": "ratna.widyaningrum@cakrawala.ac.id",
+      "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=150&auto=format&fit=crop&q=80",
+      "jabatan": "Lektor - Koordinator Riset Sistem Terdistribusi",
+      "fakultas": "Fakultas Ilmu Komputer & Rekayasa",
+      "prodi": "Sistem Informasi",
+      "status": "Aktif",
+      "courses": [
+        "BDT202",
+        "RPL301"
+      ]
+    },
+    {
+      "id": "dos_3",
+      "username": "199003152018011005",
+      "password": "password123",
+      "role": "dosen",
+      "nip": "199003152018011005",
+      "nidn": "0415039003",
+      "name": "Budi Santoso, M.Cs.",
+      "email": "budi.santoso@cakrawala.ac.id",
+      "avatar": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=150&auto=format&fit=crop&q=80",
+      "jabatan": "Asisten Ahli - Pembina Cloud Academy",
+      "fakultas": "Fakultas Ilmu Komputer & Rekayasa",
+      "prodi": "Rekayasa Perangkat Lunak",
+      "status": "Aktif",
+      "courses": [
+        "JKC303"
+      ]
+    },
+    {
+      "id": "dos_4",
+      "username": "199208082020032004",
+      "password": "password123",
+      "role": "dosen",
+      "nip": "199208082020032004",
+      "nidn": "0408089204",
+      "name": "Maya Anggraini, S.Sn., M.Ds.",
+      "email": "maya.anggraini@cakrawala.ac.id",
+      "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=150&auto=format&fit=crop&q=80",
+      "jabatan": "Lektor - Kepala Lab Human-Computer Interaction",
+      "fakultas": "Fakultas Desain & Industri Kreatif",
+      "prodi": "Desain Komunikasi Visual",
+      "status": "Aktif",
+      "courses": [
+        "UX104"
+      ]
+    },
+    {
+      "id": "adm_1",
+      "username": "admin_baak",
+      "password": "password123",
+      "role": "admin",
+      "nip": "ADM-0091",
+      "name": "Siti Nurhaliza, S.Kom.",
+      "email": "admin.siakad@cakrawala.ac.id",
+      "avatar": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=150&auto=format&fit=crop&q=80",
+      "jabatan": "Kepala Sub Bagian BAAK",
+      "department": "Biro Administrasi Akademik & Kemahasiswaan",
+      "status": "Aktif"
+    },
+    {
+      "id": "adm_2",
+      "username": "it_support",
+      "password": "password123",
+      "role": "admin",
+      "nip": "ADM-0044",
+      "name": "Raden Bagus Wicaksono, S.T.",
+      "email": "it.support@cakrawala.ac.id",
+      "avatar": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?w=150&auto=format&fit=crop&q=80",
+      "jabatan": "Administrator Sistem & Keamanan TI",
+      "department": "Pusat Teknologi Informasi (PUSTEK)",
+      "status": "Aktif"
+    }
+  ],
+  "courses": [
+    {
+      "id": "AI402",
+      "code": "AI402",
+      "name": "Kecerdasan Buatan & Machine Learning",
+      "sks": 3,
+      "semester": 5,
+      "lecturerId": "dos_1",
+      "lecturerName": "Dr. Ir. Hendra Kusuma, M.Kom.",
+      "schedule": "Senin, 08:00 - 10:30 WIB",
+      "room": "Lab AI Gedung C.302",
+      "color": "#3b82f6",
+      "description": "Membahas fondasi supervised learning, unsupervised learning, evaluasi metrik, hyperparameter optimization, dan deep learning dasar."
+    },
+    {
+      "id": "RPL301",
+      "code": "RPL301",
+      "name": "Rekayasa Perangkat Lunak Lanjut",
+      "sks": 3,
+      "semester": 5,
+      "lecturerId": "dos_2",
+      "lecturerName": "Ratna Widyaningrum, S.T., M.Sc., Ph.D.",
+      "schedule": "Selasa, 10:45 - 13:15 WIB",
+      "room": "Ruang Teori R.405",
+      "color": "#8b5cf6",
+      "description": "Pola arsitektur enterprise (Clean Architecture, DDD, Event-Driven), CI/CD pipeline, refactoring, dan manajemen technical debt."
+    },
+    {
+      "id": "KSR205",
+      "code": "KSR205",
+      "name": "Keamanan Siber & Kriptografi",
+      "sks": 3,
+      "semester": 5,
+      "lecturerId": "dos_1",
+      "lecturerName": "Dr. Ir. Hendra Kusuma, M.Kom.",
+      "schedule": "Rabu, 13:30 - 16:00 WIB",
+      "room": "Lab Cyber Security B.201",
+      "color": "#ef4444",
+      "description": "Prinsip enkripsi simetris & asimetris, hashing, PKI, vulnerability assessment, ethical hacking standar, dan pertahanan jaringan."
+    },
+    {
+      "id": "UX104",
+      "code": "UX104",
+      "name": "Desain Interaksi Pengguna UI/UX",
+      "sks": 2,
+      "semester": 3,
+      "lecturerId": "dos_4",
+      "lecturerName": "Maya Anggraini, S.Sn., M.Ds.",
+      "schedule": "Kamis, 09:00 - 10:40 WIB",
+      "room": "Studio Multimedia D.104",
+      "color": "#ec4899",
+      "description": "Design thinking, user research, wireframing, usability testing, Heuristic Evaluation Nielsen, dan pembuatan Design System."
+    },
+    {
+      "id": "BDT202",
+      "code": "BDT202",
+      "name": "Basis Data Terdistribusi",
+      "sks": 3,
+      "semester": 5,
+      "lecturerId": "dos_2",
+      "lecturerName": "Ratna Widyaningrum, S.T., M.Sc., Ph.D.",
+      "schedule": "Jumat, 08:00 - 10:30 WIB",
+      "room": "Lab Database C.201",
+      "color": "#10b981",
+      "description": "CAP theorem, konsistensi data, sharding horizontal, replikasi multi-master, transaksi terdistribusi 2PC, dan basis data NoSQL."
+    },
+    {
+      "id": "JKC303",
+      "code": "JKC303",
+      "name": "Jaringan Komputer & Cloud Computing",
+      "sks": 3,
+      "semester": 3,
+      "lecturerId": "dos_3",
+      "lecturerName": "Budi Santoso, M.Cs.",
+      "schedule": "Rabu, 08:00 - 10:30 WIB",
+      "room": "Lab Jaringan B.303",
+      "color": "#06b6d4",
+      "description": "Protokol routing, SDN, containerization Docker & Kubernetes, serta orkestrasi infrastruktur cloud pada lingkungan terisolasi."
+    }
+  ],
+  "grades": [
+    {
+      "id": "grd_1",
+      "studentId": "mhs_1",
+      "courseId": "AI402",
+      "tugas": 92,
+      "kuis": 88,
+      "uts": 85,
+      "uas": 90,
+      "presensi": 100,
+      "score": 89.05,
+      "gradeLetter": "A",
+      "gradePoint": 4,
+      "status": "Lulus",
+      "notes": "Sangat aktif dalam diskusi riset dan implementasi model."
+    },
+    {
+      "id": "grd_2",
+      "studentId": "mhs_1",
+      "courseId": "RPL301",
+      "tugas": 85,
+      "kuis": 80,
+      "uts": 88,
+      "uas": 84,
+      "presensi": 93,
+      "score": 84.8,
+      "gradeLetter": "A-",
+      "gradePoint": 3.75,
+      "status": "Lulus",
+      "notes": "Struktur diagram ADR rapi dan argumen logis."
+    },
+    {
+      "id": "grd_3",
+      "studentId": "mhs_1",
+      "courseId": "KSR205",
+      "tugas": 90,
+      "kuis": 84,
+      "uts": 86,
+      "uas": 88,
+      "presensi": 100,
+      "score": 87.2,
+      "gradeLetter": "A",
+      "gradePoint": 4,
+      "status": "Lulus",
+      "notes": "Analisis eksploitasi dan hardening konfigurasi sangat teliti."
+    },
+    {
+      "id": "grd_4",
+      "studentId": "mhs_1",
+      "courseId": "BDT202",
+      "tugas": 88,
+      "kuis": 82,
+      "uts": 80,
+      "uas": 85,
+      "presensi": 93,
+      "score": 83.65,
+      "gradeLetter": "A-",
+      "gradePoint": 3.75,
+      "status": "Lulus",
+      "notes": "Pemahaman replikasi shard konsisten."
+    },
+    {
+      "id": "grd_5",
+      "studentId": "mhs_2",
+      "courseId": "RPL301",
+      "tugas": 88,
+      "kuis": 85,
+      "uts": 82,
+      "uas": 86,
+      "presensi": 100,
+      "score": 85.05,
+      "gradeLetter": "A",
+      "gradePoint": 4,
+      "status": "Lulus",
+      "notes": "Integrasi microservice dipetakan dengan cermat."
+    },
+    {
+      "id": "grd_6",
+      "studentId": "mhs_2",
+      "courseId": "BDT202",
+      "tugas": 82,
+      "kuis": 78,
+      "uts": 80,
+      "uas": 83,
+      "presensi": 93,
+      "score": 81.15,
+      "gradeLetter": "A-",
+      "gradePoint": 3.75,
+      "status": "Lulus",
+      "notes": "Penyusunan benchmark MongoDB teruji."
+    },
+    {
+      "id": "grd_7",
+      "studentId": "mhs_2",
+      "courseId": "UX104",
+      "tugas": 91,
+      "kuis": 87,
+      "uts": 85,
+      "uas": 89,
+      "presensi": 100,
+      "score": 87.9,
+      "gradeLetter": "A",
+      "gradePoint": 4,
+      "status": "Lulus",
+      "notes": "User research kualitatif sangat kaya wawasan."
+    },
+    {
+      "id": "grd_8",
+      "studentId": "mhs_3",
+      "courseId": "BDT202",
+      "tugas": 78,
+      "kuis": 74,
+      "uts": 75,
+      "uas": 79,
+      "presensi": 87,
+      "score": 76.85,
+      "gradeLetter": "B+",
+      "gradePoint": 3.25,
+      "status": "Lulus",
+      "notes": "Perlu pendalaman lebih lanjut pada CAP theorem tradeoffs."
+    },
+    {
+      "id": "grd_9",
+      "studentId": "mhs_3",
+      "courseId": "JKC303",
+      "tugas": 85,
+      "kuis": 80,
+      "uts": 78,
+      "uas": 82,
+      "presensi": 93,
+      "score": 81.1,
+      "gradeLetter": "A-",
+      "gradePoint": 3.75,
+      "status": "Lulus",
+      "notes": "Konfigurasi virtual switch dan subnetting berhasil baik."
+    },
+    {
+      "id": "grd_10",
+      "studentId": "mhs_3",
+      "courseId": "UX104",
+      "tugas": 88,
+      "kuis": 82,
+      "uts": 84,
+      "uas": 85,
+      "presensi": 100,
+      "score": 84.85,
+      "gradeLetter": "A-",
+      "gradePoint": 3.75,
+      "status": "Lulus",
+      "notes": "Prototyping interaktif sudah memenuhi kaidah ergonomis."
+    },
+    {
+      "id": "grd_11",
+      "studentId": "mhs_4",
+      "courseId": "UX104",
+      "tugas": 96,
+      "kuis": 94,
+      "uts": 92,
+      "uas": 95,
+      "presensi": 100,
+      "score": 94.15,
+      "gradeLetter": "A",
+      "gradePoint": 4,
+      "status": "Lulus",
+      "notes": "Desain visual dan micro-interactions berstandar industri internasional."
+    },
+    {
+      "id": "grd_12",
+      "studentId": "mhs_4",
+      "courseId": "RPL301",
+      "tugas": 86,
+      "kuis": 83,
+      "uts": 80,
+      "uas": 84,
+      "presensi": 93,
+      "score": 83.05,
+      "gradeLetter": "A-",
+      "gradePoint": 3.75,
+      "status": "Lulus",
+      "notes": "Visualisasi UML dan C4 model sangat komunikatif."
+    },
+    {
+      "id": "grd_13",
+      "studentId": "mhs_5",
+      "courseId": "KSR205",
+      "tugas": 87,
+      "kuis": 81,
+      "uts": 82,
+      "uas": 85,
+      "presensi": 93,
+      "score": 83.9,
+      "gradeLetter": "A-",
+      "gradePoint": 3.75,
+      "status": "Lulus",
+      "notes": "Penjelasan mitigasi buffer overflow terperinci."
+    },
+    {
+      "id": "grd_14",
+      "studentId": "mhs_5",
+      "courseId": "JKC303",
+      "tugas": 80,
+      "kuis": 76,
+      "uts": 79,
+      "uas": 81,
+      "presensi": 87,
+      "score": 79.25,
+      "gradeLetter": "B+",
+      "gradePoint": 3.25,
+      "status": "Lulus",
+      "notes": "Skrip otomasi Docker compose berjalan lancar."
+    }
+  ],
+  "pastSemesters": [
+    {
+      "semesterNo": 1,
+      "academicYear": "2022/2023 Gasal",
+      "ips": 3.85,
+      "sks": 20,
+      "courses": [
+        {
+          "code": "KDK101",
+          "name": "Kalkulus Differensial & Integral",
+          "sks": 3,
+          "grade": "A",
+          "point": 4
+        },
+        {
+          "code": "DAS102",
+          "name": "Dasar Pemrograman Python",
+          "sks": 3,
+          "grade": "A",
+          "point": 4
+        },
+        {
+          "code": "LOG103",
+          "name": "Logika Matematika & Himpunan",
+          "sks": 3,
+          "grade": "A-",
+          "point": 3.75
+        },
+        {
+          "code": "PTI104",
+          "name": "Pengantar Teknologi Informasi",
+          "sks": 2,
+          "grade": "A",
+          "point": 4
+        },
+        {
+          "code": "FIS105",
+          "name": "Fisika Dasar Komputasi",
+          "sks": 3,
+          "grade": "B+",
+          "point": 3.25
+        },
+        {
+          "code": "BBI106",
+          "name": "Bahasa Inggris Akademik",
+          "sks": 2,
+          "grade": "A",
+          "point": 4
+        },
+        {
+          "code": "PKN107",
+          "name": "Pendidikan Pancasila & Kewarganegaraan",
+          "sks": 2,
+          "grade": "A",
+          "point": 4
+        },
+        {
+          "code": "AGM108",
+          "name": "Pendidikan Agama & Etika",
+          "sks": 2,
+          "grade": "A",
+          "point": 4
+        }
+      ]
+    },
+    {
+      "semesterNo": 2,
+      "academicYear": "2022/2023 Genap",
+      "ips": 3.8,
+      "sks": 20,
+      "courses": [
+        {
+          "code": "STR201",
+          "name": "Struktur Data & Algoritma",
+          "sks": 3,
+          "grade": "A",
+          "point": 4
+        },
+        {
+          "code": "ALN202",
+          "name": "Aljabar Linear & Matriks",
+          "sks": 3,
+          "grade": "A-",
+          "point": 3.75
+        },
+        {
+          "code": "ARK203",
+          "name": "Arsitektur & Organisasi Komputer",
+          "sks": 3,
+          "grade": "A-",
+          "point": 3.75
+        },
+        {
+          "code": "PBO204",
+          "name": "Pemrograman Berorientasi Objek (Java)",
+          "sks": 3,
+          "grade": "A",
+          "point": 4
+        },
+        {
+          "code": "BD1205",
+          "name": "Sistem Basis Data Relasional",
+          "sks": 3,
+          "grade": "A",
+          "point": 4
+        },
+        {
+          "code": "STA206",
+          "name": "Statistika & Probabilitas",
+          "sks": 3,
+          "grade": "B+",
+          "point": 3.25
+        },
+        {
+          "code": "BIN207",
+          "name": "Tata Bahasa Indonesia Formal",
+          "sks": 2,
+          "grade": "A",
+          "point": 4
+        }
+      ]
+    },
+    {
+      "semesterNo": 3,
+      "academicYear": "2023/2024 Gasal",
+      "ips": 3.78,
+      "sks": 20,
+      "courses": [
+        {
+          "code": "DES301",
+          "name": "Desain & Analisis Algoritma",
+          "sks": 3,
+          "grade": "A-",
+          "point": 3.75
+        },
+        {
+          "code": "SO302",
+          "name": "Sistem Operasi Lanjut",
+          "sks": 3,
+          "grade": "B+",
+          "point": 3.25
+        },
+        {
+          "code": "WEB303",
+          "name": "Pengembangan Aplikasi Web Modern",
+          "sks": 3,
+          "grade": "A",
+          "point": 4
+        },
+        {
+          "code": "JKC303",
+          "name": "Jaringan Komputer & Cloud Computing",
+          "sks": 3,
+          "grade": "A",
+          "point": 4
+        },
+        {
+          "code": "UX104",
+          "name": "Desain Interaksi Pengguna UI/UX",
+          "sks": 2,
+          "grade": "A",
+          "point": 4
+        },
+        {
+          "code": "RPL201",
+          "name": "Dasar Rekayasa Perangkat Lunak",
+          "sks": 3,
+          "grade": "A-",
+          "point": 3.75
+        },
+        {
+          "code": "MET304",
+          "name": "Metodologi Riset Komputasi",
+          "sks": 3,
+          "grade": "A",
+          "point": 4
+        }
+      ]
+    },
+    {
+      "semesterNo": 4,
+      "academicYear": "2023/2024 Genap",
+      "ips": 3.86,
+      "sks": 22,
+      "courses": [
+        {
+          "code": "TBO401",
+          "name": "Teori Bahasa Otomata & Kompilasi",
+          "sks": 3,
+          "grade": "A-",
+          "point": 3.75
+        },
+        {
+          "code": "MOB402",
+          "name": "Pengembangan Aplikasi Mobile Lintas Platform",
+          "sks": 3,
+          "grade": "A",
+          "point": 4
+        },
+        {
+          "code": "PCD403",
+          "name": "Pengolahan Citra Digital",
+          "sks": 3,
+          "grade": "A",
+          "point": 4
+        },
+        {
+          "code": "IOT404",
+          "name": "Internet of Things & Embedded System",
+          "sks": 3,
+          "grade": "A-",
+          "point": 3.75
+        },
+        {
+          "code": "KWA405",
+          "name": "Kewirausahaan Berbasis Teknologi",
+          "sks": 2,
+          "grade": "A",
+          "point": 4
+        },
+        {
+          "code": "SIS406",
+          "name": "Sistem Informasi Manajemen",
+          "sks": 3,
+          "grade": "A",
+          "point": 4
+        },
+        {
+          "code": "TUG407",
+          "name": "Proyek Kolaboratif Rekayasa Perangkat Lunak",
+          "sks": 5,
+          "grade": "A",
+          "point": 4
+        }
+      ]
+    }
+  ],
+  "assignments": [
+    {
+      "id": "tgs_1",
+      "courseId": "AI402",
+      "courseName": "Kecerdasan Buatan & Machine Learning",
+      "lecturerId": "dos_1",
+      "lecturerName": "Dr. Ir. Hendra Kusuma, M.Kom.",
+      "title": "Eksperimen Supervised Learning: Klasifikasi Dataset Medis",
+      "deadline": "2026-10-25T23:59:00",
+      "description": "Gunakan algoritma Random Forest dan SVM pada dataset yang disediakan. Bandingkan akurasi, F1-Score, dan plot ROC-AUC curve. Wajib menyertakan file notebook .ipynb atau script .py beserta laporan analisis format PDF.",
+      "attachmentName": "Panduan_Tugas1_AI402.pdf",
+      "attachmentSize": "1.2 MB",
+      "maxScore": 100,
+      "createdAt": "2026-10-10T08:00:00"
+    },
+    {
+      "id": "tgs_2",
+      "courseId": "RPL301",
+      "courseName": "Rekayasa Perangkat Lunak Lanjut",
+      "lecturerId": "dos_2",
+      "lecturerName": "Ratna Widyaningrum, S.T., M.Sc., Ph.D.",
+      "title": "Architecture Decision Record (ADR) & Model Microservices",
+      "deadline": "2026-10-28T23:59:00",
+      "description": "Susun dokumen ADR mengenai pemilihan message broker (RabbitMQ vs Apache Kafka) untuk sistem e-commerce berskala enterprise. Gambarkan diagram arsitektur C4 Model level 2 & 3.",
+      "attachmentName": "Template_ADR_RPL301.docx",
+      "attachmentSize": "840 KB",
+      "maxScore": 100,
+      "createdAt": "2026-10-11T10:30:00"
+    },
+    {
+      "id": "tgs_3",
+      "courseId": "KSR205",
+      "courseName": "Keamanan Siber & Kriptografi",
+      "lecturerId": "dos_1",
+      "lecturerName": "Dr. Ir. Hendra Kusuma, M.Kom.",
+      "title": "Analisis Vulnerability Assessment & Hardening Konfigurasi",
+      "deadline": "2026-11-05T20:00:00",
+      "description": "Lakukan vulnerability scanning pada VM sandbox yang diberikan. Dokumentasikan minimal 3 kerentanan kritis CVE dan berikan langkah remediation serta implementasi konfigurasi firewall iptables.",
+      "attachmentName": "Instruksi_Lab_KSR205.pdf",
+      "attachmentSize": "2.4 MB",
+      "maxScore": 100,
+      "createdAt": "2026-10-12T14:15:00"
+    },
+    {
+      "id": "tgs_4",
+      "courseId": "UX104",
+      "courseName": "Desain Interaksi Pengguna UI/UX",
+      "lecturerId": "dos_4",
+      "lecturerName": "Maya Anggraini, S.Sn., M.Ds.",
+      "title": "Heuristic Evaluation & Hi-Fi Interactive Prototype Telemedisin",
+      "deadline": "2026-10-20T18:00:00",
+      "description": "Buat analisis 10 Heuristik Nielsen pada aplikasi telemedisin yang ada, kemudian buat redesign prototipe interaktif high-fidelity menggunakan Figma sesuai kaidah WCAG 2.1 AA.",
+      "attachmentName": "Rubrik_Penilaian_UX104.pdf",
+      "attachmentSize": "650 KB",
+      "maxScore": 100,
+      "createdAt": "2026-10-08T09:00:00"
+    },
+    {
+      "id": "tgs_5",
+      "courseId": "BDT202",
+      "courseName": "Basis Data Terdistribusi",
+      "lecturerId": "dos_2",
+      "lecturerName": "Ratna Widyaningrum, S.T., M.Sc., Ph.D.",
+      "title": "Studi Kasus Sharding & Replikasi Horizontal MongoDB",
+      "deadline": "2026-11-10T23:59:00",
+      "description": "Rancang skema sharding key untuk collection dengan 10 juta dokumen transaksi. Analisis latency read/write pada 3 shard replica sets dan sajikan laporan benchmarking.",
+      "attachmentName": "Studi_Kasus_BDT202.pdf",
+      "attachmentSize": "1.8 MB",
+      "maxScore": 100,
+      "createdAt": "2026-10-13T09:30:00"
+    }
+  ],
+  "submissions": [
+    {
+      "id": "sub_1",
+      "assignmentId": "tgs_1",
+      "courseId": "AI402",
+      "studentId": "mhs_1",
+      "studentName": "Ahmad Zulfikar Pratama",
+      "studentNim": "220401001",
+      "studentProdi": "S1 Teknik Informatika",
+      "fileName": "AhmadZulfikar_220401001_Tugas1_AI402.zip",
+      "fileSize": "4.8 MB",
+      "submittedAt": "2026-10-18T14:20:15",
+      "notes": "Laporan lengkap beserta script Python dan visualisasi confusion matrix sudah terlampir. Tautan repo GitHub: https://github.com/synthetic-zulfikar/ai-med-classification",
+      "status": "graded",
+      "score": 92,
+      "feedback": "Analisis metrik presisi dan recall sangat mendalam. Penggunaan confusion matrix tepat. Hyperparameter tuning sudah optimal. Pertahankan kualitas ini!",
+      "gradedAt": "2026-10-19T09:45:00",
+      "gradedBy": "Dr. Ir. Hendra Kusuma, M.Kom."
+    },
+    {
+      "id": "sub_2",
+      "assignmentId": "tgs_2",
+      "courseId": "RPL301",
+      "studentId": "mhs_2",
+      "studentName": "Nabila Putri Maharani",
+      "studentNim": "220401045",
+      "studentProdi": "S1 Sistem Informasi",
+      "fileName": "NabilaPutri_220401045_ADR_Microservices.pdf",
+      "fileSize": "2.1 MB",
+      "submittedAt": "2026-10-21T16:10:00",
+      "notes": "Berikut dokumen ADR perbandingan Kafka vs RabbitMQ dengan C4 Model Level 2.",
+      "status": "submitted",
+      "score": null,
+      "feedback": null,
+      "gradedAt": null,
+      "gradedBy": null
+    },
+    {
+      "id": "sub_3",
+      "assignmentId": "tgs_4",
+      "courseId": "UX104",
+      "studentId": "mhs_4",
+      "studentName": "Clarissa Evelyn Wijaya",
+      "studentNim": "230402088",
+      "studentProdi": "S1 Desain Komunikasi Visual",
+      "fileName": "ClarissaEvelyn_230402088_Heuristic_Proto_UX.pdf",
+      "fileSize": "15.4 MB",
+      "submittedAt": "2026-10-14T11:05:00",
+      "notes": "Laporan 10 Heuristik dan link prototype Figma interaktif dengan 48 artboards & design tokens.",
+      "status": "graded",
+      "score": 96,
+      "feedback": "Karya prototype luar biasa, micro-interactions sangat interaktif dan pemenuhan kontras warna WCAG AAA sangat konsisten!",
+      "gradedAt": "2026-10-15T13:30:00",
+      "gradedBy": "Maya Anggraini, S.Sn., M.Ds."
+    },
+    {
+      "id": "sub_4",
+      "assignmentId": "tgs_4",
+      "courseId": "UX104",
+      "studentId": "mhs_3",
+      "studentName": "Dimas Arya Nugroho",
+      "studentNim": "230402012",
+      "studentProdi": "S1 Rekayasa Perangkat Lunak",
+      "fileName": "DimasArya_230402012_Evaluasi_UX.pdf",
+      "fileSize": "3.2 MB",
+      "submittedAt": "2026-10-14T21:15:00",
+      "notes": "Dokumentasi evaluasi usability testing terhadap 5 partisipan mahasiswa.",
+      "status": "graded",
+      "score": 88,
+      "feedback": "Alur user flow rapi dan komponen design system konsisten. Perhatikan konsistensi margin pada dialog confirmation.",
+      "gradedAt": "2026-10-15T15:10:00",
+      "gradedBy": "Maya Anggraini, S.Sn., M.Ds."
+    }
+  ],
+  "discussions": [
+    {
+      "id": "disc_1",
+      "title": "Penanganan Masalah Imbalanced Data pada Klasifikasi Medis AI402",
+      "category": "Akademik",
+      "courseId": "AI402",
+      "courseName": "Kecerdasan Buatan & Machine Learning",
+      "authorId": "mhs_1",
+      "authorName": "Ahmad Zulfikar Pratama",
+      "authorRole": "mahasiswa",
+      "authorAvatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+      "authorSubtext": "NIM 220401001 • Teknik Informatika",
+      "createdAt": "2026-10-14T08:30:00",
+      "content": "Selamat pagi Pak Hendra dan rekan-rekan. Saat melakukan preprocessing pada data kanker payudara untuk Tugas 1, saya menemukan rasio kelas positif dan negatif adalah 1:9. Model Random Forest cenderung bias ke kelas mayoritas. Apakah dianjurkan menggunakan SMOTE (Synthetic Minority Over-sampling) atau lebih baik memodifikasi Class Weight dan Focal Loss?",
+      "upvotes": 14,
+      "tags": [
+        "Machine Learning",
+        "Tugas 1",
+        "Imbalanced Data",
+        "AI402"
+      ],
+      "replies": [
+        {
+          "id": "rep_1_1",
+          "authorId": "dos_1",
+          "authorName": "Dr. Ir. Hendra Kusuma, M.Kom.",
+          "authorRole": "dosen",
+          "authorAvatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&auto=format&fit=crop&q=80",
+          "authorSubtext": "Dosen Pengampu AI402",
+          "createdAt": "2026-10-14T09:15:00",
+          "content": "Pertanyaan yang sangat bagus Zulfikar. Untuk domain medis di mana false negative berisiko fatal, pendekatan yang direkomendasikan adalah kombinasi: 1) Gunakan Stratified K-Fold CV untuk validasi, 2) Terapkan Class Weighting (misal `class_weight='balanced'`) terlebih dahulu karena tidak menambah synthetic noise, 3) Evaluasi dengan PR-AUC (Precision-Recall Curve) daripada hanya ROC-AUC. SMOTE dapat dicoba, tapi pastikan hanya di-fit pada training fold saja untuk menghindari data leakage.",
+          "isVerifiedAnswer": true,
+          "upvotes": 21
+        },
+        {
+          "id": "rep_1_2",
+          "authorId": "mhs_2",
+          "authorName": "Nabila Putri Maharani",
+          "authorRole": "mahasiswa",
+          "authorAvatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=150&auto=format&fit=crop&q=80",
+          "authorSubtext": "NIM 220401045 • Sistem Informasi",
+          "createdAt": "2026-10-14T10:02:00",
+          "content": "Terima kasih penjelasannya Pak Hendra! Saya sempat mencoba library `imbalanced-learn` dengan pipeline scikit-learn, hasilnya cukup stabil dan mencegah leakage.",
+          "isVerifiedAnswer": false,
+          "upvotes": 5
+        }
+      ]
+    },
+    {
+      "id": "disc_2",
+      "title": "Perbedaan Karakteristik Partition Key vs Shard Key di Basis Data Terdistribusi",
+      "category": "Akademik",
+      "courseId": "BDT202",
+      "courseName": "Basis Data Terdistribusi",
+      "authorId": "mhs_3",
+      "authorName": "Dimas Arya Nugroho",
+      "authorRole": "mahasiswa",
+      "authorAvatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80",
+      "authorSubtext": "NIM 230402012 • Rekayasa Perangkat Lunak",
+      "createdAt": "2026-10-12T13:45:00",
+      "content": "Izin bertanya Bu Ratna, apakah ada kondisi di mana range-based sharding lebih diunggulkan dibanding hashed sharding pada sistem keuangan dengan jutaan transaksi harian?",
+      "upvotes": 9,
+      "tags": [
+        "Distributed DB",
+        "Sharding",
+        "BDT202"
+      ],
+      "replies": [
+        {
+          "id": "rep_2_1",
+          "authorId": "dos_2",
+          "authorName": "Ratna Widyaningrum, S.T., M.Sc., Ph.D.",
+          "authorRole": "dosen",
+          "authorAvatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=150&auto=format&fit=crop&q=80",
+          "authorSubtext": "Dosen Pengampu BDT202",
+          "createdAt": "2026-10-12T14:30:00",
+          "content": "Halo Dimas. Range-based sharding sangat unggul ketika aplikasi kamu membutuhkan query rentang waktu (misal: rekap mutasi rekening per bulan/tahun), karena data berdekatan tersimpan pada chunk/shard yang sama. Namun kelemahannya adalah risiko hot-spotting jika data transaksi terbaru selalu masuk ke range tertinggi. Solusinya sering kali menggunakan compound shard key (gabungan hashed customer_id + timestamp).",
+          "isVerifiedAnswer": true,
+          "upvotes": 18
+        }
+      ]
+    },
+    {
+      "id": "disc_3",
+      "title": "Pengumuman Jadwal Ujian Tengah Semester (UTS) Gasal 2026/2027",
+      "category": "Pengumuman",
+      "courseId": "ALL",
+      "courseName": "Seluruh Program Studi",
+      "authorId": "adm_1",
+      "authorName": "Siti Nurhaliza, S.Kom.",
+      "authorRole": "admin",
+      "authorAvatar": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=150&auto=format&fit=crop&q=80",
+      "authorSubtext": "Biro Administrasi Akademik (BAAK)",
+      "createdAt": "2026-10-10T09:00:00",
+      "content": "Diberitahukan kepada seluruh sivitas akademika Universitas Teknologi Indonesia bahwa pelaksanaan UTS Semester Gasal 2026/2027 akan diselenggarakan pada tanggal 03 - 14 November 2026. Mahasiswa wajib melunasi administrasi dan mencetak Kartu Ujian melalui portal ini paling lambat 31 Oktober 2026.",
+      "upvotes": 38,
+      "tags": [
+        "Pengumuman",
+        "BAAK",
+        "UTS 2026"
+      ],
+      "replies": [
+        {
+          "id": "rep_3_1",
+          "authorId": "mhs_1",
+          "authorName": "Ahmad Zulfikar Pratama",
+          "authorRole": "mahasiswa",
+          "authorAvatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+          "authorSubtext": "NIM 220401001",
+          "createdAt": "2026-10-10T10:15:00",
+          "content": "Baik Bu Siti, apakah ruang ujian praktikum lab AI juga dapat dicek langsung di portal?",
+          "isVerifiedAnswer": false,
+          "upvotes": 4
+        },
+        {
+          "id": "rep_3_2",
+          "authorId": "adm_1",
+          "authorName": "Siti Nurhaliza, S.Kom.",
+          "authorRole": "admin",
+          "authorAvatar": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=150&auto=format&fit=crop&q=80",
+          "authorSubtext": "Biro Administrasi Akademik (BAAK)",
+          "createdAt": "2026-10-10T11:00:00",
+          "content": "Tentu Zulfikar, jadwal pembagian sesi lab komputasi akan tampil otomatis pada Kartu Ujian masing-masing mahasiswa mulai tanggal 25 Oktober 2026.",
+          "isVerifiedAnswer": true,
+          "upvotes": 11
+        }
+      ]
+    }
+  ],
+  "auditLogs": [
+    {
+      "id": "log_1791871713773_27r6",
+      "timestamp": "2026-10-13T06:08:33.773Z",
+      "userId": "adm_1",
+      "userName": "Siti Nurhaliza, S.Kom.",
+      "userRole": "admin",
+      "action": "LOGIN_BERHASIL",
+      "details": "Pengguna Siti Nurhaliza, S.Kom. (admin) berhasil masuk ke sistem",
+      "ipAddress": "::1"
+    },
+    {
+      "id": "log_1791871665272_8dp2",
+      "timestamp": "2026-10-13T06:07:45.272Z",
+      "userId": "dos_1",
+      "userName": "Dr. Ir. Hendra Kusuma, M.Kom.",
+      "userRole": "dosen",
+      "action": "LOGIN_BERHASIL",
+      "details": "Pengguna Dr. Ir. Hendra Kusuma, M.Kom. (dosen) berhasil masuk ke sistem",
+      "ipAddress": "::1"
+    },
+    {
+      "id": "log_1791871607742_ernr",
+      "timestamp": "2026-10-13T06:06:47.742Z",
+      "userId": "mhs_1",
+      "userName": "Ahmad Zulfikar Pratama",
+      "userRole": "mahasiswa",
+      "action": "LOGIN_BERHASIL",
+      "details": "Pengguna Ahmad Zulfikar Pratama (mahasiswa) berhasil masuk ke sistem",
+      "ipAddress": "::1"
+    },
+    {
+      "id": "log_1",
+      "timestamp": "2026-10-13T10:20:00",
+      "userId": "dos_1",
+      "userName": "Dr. Ir. Hendra Kusuma, M.Kom.",
+      "userRole": "dosen",
+      "action": "PENILAIAN_TUGAS",
+      "details": "Memberikan nilai 92 pada pengumpulan Tugas 1 mahasiswa Ahmad Zulfikar (NIM 220401001)",
+      "ipAddress": "192.168.10.45"
+    },
+    {
+      "id": "log_2",
+      "timestamp": "2026-10-13T09:40:00",
+      "userId": "mhs_2",
+      "userName": "Nabila Putri Maharani",
+      "userRole": "mahasiswa",
+      "action": "UNGGAH_TUGAS",
+      "details": "Mengunggah submission untuk tugas 'ADR & Model Microservices' (RPL301)",
+      "ipAddress": "192.168.10.88"
+    },
+    {
+      "id": "log_3",
+      "timestamp": "2026-10-13T08:15:00",
+      "userId": "adm_1",
+      "userName": "Siti Nurhaliza, S.Kom.",
+      "userRole": "admin",
+      "action": "UPDATE_STATUS_AKUN",
+      "details": "Memverifikasi aktivasi akun mahasiswa angkatan 2023",
+      "ipAddress": "192.168.1.12"
+    },
+    {
+      "id": "log_4",
+      "timestamp": "2026-10-12T16:00:00",
+      "userId": "dos_4",
+      "userName": "Maya Anggraini, S.Sn., M.Ds.",
+      "userRole": "dosen",
+      "action": "UPDATE_NILAI_KHS",
+      "details": "Memperbarui komponen nilai UTS dan UAS kelas UX104",
+      "ipAddress": "192.168.10.63"
+    },
+    {
+      "id": "log_5",
+      "timestamp": "2026-10-12T14:30:00",
+      "userId": "dos_2",
+      "userName": "Ratna Widyaningrum, S.T., M.Sc., Ph.D.",
+      "userRole": "dosen",
+      "action": "VERIFIKASI_JAWABAN",
+      "details": "Menandai jawaban diskusi BDT202 sebagai 'Solusi Resmi Dosen'",
+      "ipAddress": "192.168.10.51"
+    }
+  ]
+}
